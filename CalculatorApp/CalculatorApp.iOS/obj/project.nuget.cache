@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l/IetCe8vvRDlmcdjqwQrn+4kXXRFk1so+FLxwJ+E/GQr77KAPS27K1AjYREuafqDt+b73w0yANdhzchFDqbQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theot\\Documents\\GitHub\\Mobile-Calculator\\CalculatorApp\\CalculatorApp.iOS\\CalculatorApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theot\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\theot\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\theot\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
